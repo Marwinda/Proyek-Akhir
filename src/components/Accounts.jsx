@@ -1,5 +1,3 @@
-// Komponen daftar akun //
-
 const Accounts = () => {
     const accounts = [
       { name: "Crypto", balance: 85345 },
